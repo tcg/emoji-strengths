@@ -50,7 +50,7 @@ Please feel free to link these to their respective issues!
 
 # Pull requests for improvements are welcome!
 
-## Process 
+## Process / How to make a suggestion
 
 I'm not sure how best to accomplish this, other than perhaps starting with the following: 
 
