@@ -13,39 +13,39 @@ Please feel free to link these to their respective issues!
 | Stength | Emoji |
 |------|---|
 |[Achiever](https://github.com/tcg/emoji-strengths/issues/4)| ✅ |
-|Activator| |
+|[Activator](https://github.com/tcg/emoji-strengths/issues/10)| |
 |[Adaptability](https://github.com/tcg/emoji-strengths/issues/1)| 👐🏽 |
-|Analytical| |
-|Arranger| |
-|Belief| |
-|Command| |
-|Communication| |
+|[Analytical](https://github.com/tcg/emoji-strengths/issues/11)| |
+|[Arranger](https://github.com/tcg/emoji-strengths/issues/12)| |
+|[Belief](https://github.com/tcg/emoji-strengths/issues/13)| |
+|[Command](https://github.com/tcg/emoji-strengths/issues/14)| |
+|[Communication](https://github.com/tcg/emoji-strengths/issues/7)| |
 |[Competition](https://github.com/tcg/emoji-strengths/issues/5)| |
 |[Connectedness](https://github.com/tcg/emoji-strengths/issues/6)| 🕸️ |
-|Consistency| |
-|Context| |
-|Deliberative| |
-|Developer| |
-|Discipline| |
-|Empathy| |
-|Focus| |
+|[Consistency](https://github.com/tcg/emoji-strengths/issues/15)| |
+|[Context](https://github.com/tcg/emoji-strengths/issues/16)| |
+|[Deliberative](https://github.com/tcg/emoji-strengths/issues/17)| |
+|[Developer](https://github.com/tcg/emoji-strengths/issues/18)| |
+|[Discipline](https://github.com/tcg/emoji-strengths/issues/19)| |
+|[Empathy](https://github.com/tcg/emoji-strengths/issues/20)| |
+|[Focus](https://github.com/tcg/emoji-strengths/issues/21)| |
 |[Futuristic](https://github.com/tcg/emoji-strengths/issues/2)| 🔮 |
 |[Harmony](https://github.com/tcg/emoji-strengths/issues/3)| 🕊️ |
-|Ideation| |
-|Includer| |
-|Individualization| |
-|Input| |
-|Intellection| |
-|Learner| |
-|Maximizer| |
-|Positivity| |
-|Relator| |
-|Responsibility| |
-|Restorative| |
-|Self Assurance| |
-|Significance| |
-|Strategic| |
-|Woo| |
+|[Ideation](https://github.com/tcg/emoji-strengths/issues/22)| |
+|[Includer](https://github.com/tcg/emoji-strengths/issues/23)| |
+|[Individualization](https://github.com/tcg/emoji-strengths/issues/24)| |
+|[Input](https://github.com/tcg/emoji-strengths/issues/25)| |
+|[Intellection](https://github.com/tcg/emoji-strengths/issues/26)| |
+|[Learner](https://github.com/tcg/emoji-strengths/issues/27)| |
+|[Maximizer](https://github.com/tcg/emoji-strengths/issues/28)| |
+|[Positivity](https://github.com/tcg/emoji-strengths/issues/29)| |
+|[Relator](https://github.com/tcg/emoji-strengths/issues/30)| |
+|[Responsibility](https://github.com/tcg/emoji-strengths/issues/31)| |
+|[Restorative](https://github.com/tcg/emoji-strengths/issues/32)| |
+|[Self Assurance](https://github.com/tcg/emoji-strengths/issues/33)| |
+|[Significance](https://github.com/tcg/emoji-strengths/issues/34)| |
+|[Strategic](https://github.com/tcg/emoji-strengths/issues/35)| |
+|[Woo](https://github.com/tcg/emoji-strengths/issues/36)| |
 
 
 # Pull requests for improvements are welcome!
