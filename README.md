@@ -4,7 +4,7 @@ Attempting to assign an emoji to each of the 34 "Strengths".
 This is a wildly *unofficial* project to assign an emoji to each of [Gallup, Inc's 34 "StrengthFinder" strengths](https://www.gallupstrengthscenter.com/home/en-us/strengthsfinder). 
 
 
-# Current Draft (v0.1.0)
+# Current Draft (v0.2.0)
 
 The current "selected" set of emoji. We'll version this like other software: If an emoji gets swapped out, we'll consider that a breaking change. 
 
@@ -12,7 +12,7 @@ Please feel free to link these to their respective issues!
 
 | Stength | Emoji |
 |------|---|
-|Achiever| |
+|[Achiever](https://github.com/tcg/emoji-strengths/issues/4)| ✅ |
 |Activator| |
 |[Adaptability](https://github.com/tcg/emoji-strengths/issues/1)| 👐🏽 |
 |Analytical| |
@@ -20,8 +20,8 @@ Please feel free to link these to their respective issues!
 |Belief| |
 |Command| |
 |Communication| |
-|Competition| |
-|Connectedness| |
+|[Competition](https://github.com/tcg/emoji-strengths/issues/5)| |
+|[Connectedness](https://github.com/tcg/emoji-strengths/issues/6)| 🕸️ |
 |Consistency| |
 |Context| |
 |Deliberative| |
@@ -29,8 +29,8 @@ Please feel free to link these to their respective issues!
 |Discipline| |
 |Empathy| |
 |Focus| |
-|Futuristic| 🔮 |
-|Harmony| |
+|[Futuristic](https://github.com/tcg/emoji-strengths/issues/2)| 🔮 |
+|[Harmony](https://github.com/tcg/emoji-strengths/issues/3)| 🕊️ |
 |Ideation| |
 |Includer| |
 |Individualization| |
