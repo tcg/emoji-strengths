@@ -45,7 +45,7 @@ Please feel free to link these to their respective issues!
 |[Self Assurance](https://github.com/tcg/emoji-strengths/issues/33)| |
 |[Significance](https://github.com/tcg/emoji-strengths/issues/34)| |
 |[Strategic](https://github.com/tcg/emoji-strengths/issues/35)| |
-|[Woo](https://github.com/tcg/emoji-strengths/issues/36)| |
+|[Woo](https://github.com/tcg/emoji-strengths/issues/36)| 🥰 |
 
 
 # Pull requests for improvements are welcome!
