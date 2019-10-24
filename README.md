@@ -38,7 +38,7 @@ Please feel free to link these to their respective issues!
 |[Intellection](https://github.com/tcg/emoji-strengths/issues/26)| |
 |[Learner](https://github.com/tcg/emoji-strengths/issues/27)| |
 |[Maximizer](https://github.com/tcg/emoji-strengths/issues/28)| |
-|[Positivity](https://github.com/tcg/emoji-strengths/issues/29)| |
+|[Positivity](https://github.com/tcg/emoji-strengths/issues/29)| 👍 |
 |[Relator](https://github.com/tcg/emoji-strengths/issues/30)| |
 |[Responsibility](https://github.com/tcg/emoji-strengths/issues/31)| |
 |[Restorative](https://github.com/tcg/emoji-strengths/issues/32)| |
