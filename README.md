@@ -13,7 +13,7 @@ Please feel free to link these to their respective issues!
 | Stength | Emoji |
 |------|---|
 |[Achiever](https://github.com/tcg/emoji-strengths/issues/4)| ✅ |
-|[Activator](https://github.com/tcg/emoji-strengths/issues/10)| |
+|[Activator](https://github.com/tcg/emoji-strengths/issues/10)| 👏 |
 |[Adaptability](https://github.com/tcg/emoji-strengths/issues/1)| 👐🏽 |
 |[Analytical](https://github.com/tcg/emoji-strengths/issues/11)| |
 |[Arranger](https://github.com/tcg/emoji-strengths/issues/12)| |
